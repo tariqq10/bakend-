@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 499,
+      "image": "https://images.pexels.com/photos/336948/pexels-photo-336948.jpeg",
+      "description": "A modern smartphone with great battery life and camera."
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 999,
+      "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+      "description": "Powerful laptop suitable for dev work and media consumption."
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 199,
+      "image": "https://images.pexels.com/photos/159538/headphones-music-audio-sound-159538.jpeg",
+      "description": "Comfortable over-ear headphones with clear sound."
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "price": 149,
+      "image": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg",
+      "description": "Track your fitness and notifications with this sleek smartwatch."
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "price": 89,
+      "image": "https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg",
+      "description": "Portable speaker with deep bass and long battery life."
+    },
+    {
+      "id": 6,
+      "name": "Gaming Console",
+      "price": 399,
+      "image": "https://images.pexels.com/photos/845255/pexels-photo-845255.jpeg",
+      "description": "Next-gen console for immersive gaming experiences."
+    },
+    {
+      "id": 7,
+      "name": "Wireless Mouse",
+      "price": 29,
+      "image": "https://images.pexels.com/photos/5082561/pexels-photo-5082561.jpeg",
+      "description": "Ergonomic wireless mouse with precision tracking."
+    },
+    {
+      "id": 8,
+      "name": "Mechanical Keyboard",
+      "price": 119,
+      "image": "https://images.pexels.com/photos/4792730/pexels-photo-4792730.jpeg",
+      "description": "Tactile mechanical keyboard for fast and accurate typing."
+    },
+    {
+      "id": 9,
+      "name": "Drone",
+      "price": 699,
+      "image": "https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg",
+      "description": "Capture stunning aerial footage with this high-tech drone."
+    },
+    {
+      "id": 10,
+      "name": "Tablet",
+      "price": 349,
+      "image": "https://images.pexels.com/photos/5082560/pexels-photo-5082560.jpeg",
+      "description": "Lightweight tablet perfect for reading, browsing, and sketching."
+    },
+    {
+      "id": 11,
+      "name": "External Hard Drive",
+      "price": 89,
+      "image": "https://images.pexels.com/photos/159220/pexels-photo-159220.jpeg",
+      "description": "Reliable storage solution with fast data transfer speeds."
+    },
+    {
+      "id": 12,
+      "name": "Webcam",
+      "price": 59,
+      "image": "https://images.pexels.com/photos/449813/pexels-photo-449813.jpeg",
+      "description": "High-definition webcam for video calls and streaming."
+    },
+    {
+      "id": 13,
+      "name": "Portable Charger",
+      "price": 39,
+      "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg",
+      "description": "Compact power bank to keep your devices charged on the go."
+    },
+    {
+      "id": 14,
+      "name": "VR Headset",
+      "price": 299,
+      "image": "https://images.pexels.com/photos/765205/pexels-photo-765205.jpeg",
+      "description": "Step into virtual worlds with this immersive VR headset."
+    },
+    {
+      "id": 15,
+      "name": "Smart Home Hub",
+      "price": 129,
+      "image": "https://images.pexels.com/photos/386028/pexels-photo-386028.jpeg",
+      "description": "Control your smart devices with this intuitive home hub."
+    }
+  ]
+}
